@@ -19,7 +19,7 @@ log(i);
 
 ### Caveats:
 
-- Doesn't handle arguments without crashing (?) only tested example above with `function(i){}` so I may be wrong
+- Doesn't handle arguments without crashing (?) only tested example above with `function(obj){}` so I may be wrong
 - Hacky, but what isn't
 - Maybe unstable (?). Test it and let me know.
 - It's 9 AM
